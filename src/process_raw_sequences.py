@@ -2,8 +2,6 @@
 
 """Processes raw fasta files to obtain the reverse complement of raw sequences
 """
-
-import re
 import sys
 from Bio.Seq import Seq
 from Bio.Alphabet import generic_dna
