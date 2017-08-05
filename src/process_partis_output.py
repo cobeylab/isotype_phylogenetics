@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-"""Processes partis output to produce separate fasta files with the sequences of each clone, along with the concatenated V, D and J genes iferred for the clone
+"""Processes partis output to produce separate fasta files with the sequences of each clone, along with inferred naive sequence for the clone
 """
 import sys
 import csv
