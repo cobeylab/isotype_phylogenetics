@@ -1,0 +1,3 @@
+query_id,subject_id,percent_identity,alignment_length,mismatches,gap_opens,query_start,query_end,subject_start,subject_end,evalue,bit_score
+HQVTAQW01A3FSV,IgM,100.00,20,0,0,209,228,1,20,4e-07,37.4
+HQVTAQW01A3FSV,IgE,100.00,11,0,0,188,198,1182,1172,0.13,21.1

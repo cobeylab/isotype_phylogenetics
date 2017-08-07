@@ -4,8 +4,11 @@
 CLONE_FILE=$1
 
 # Path to output file with blast results
-BLAST_OUTPUT=$(echo $CLONE_FILE | grep -o [A-Z]*[0-9]*PB_clone_[0-9]*)_Cregions.txt
+BLAST_OUTPUT=$(echo $CLONE_FILE | grep -o [A-Z]*[0-9]*PB_clone_[0-9]*)_Cregions.csv
 BLAST_OUTPUT=../results/clones/$BLAST_OUTPUT
+
+# Path to file with constant region sequences
+CREGION_FASTA=/project/cobey/mvieira/isotype_phylogenetics/src/c_regions.fasta
 
 # Find processed fasta file w/ full sequences from dataset identifier
 DATASET_ID=$(echo $CLONE_FILE | grep -o [A-Z]*[0-9]*PB)
@@ -49,4 +52,13 @@ for ID in ${SEQ_IDS//,/ }
     done 
        
 # Blast $TEMP_FASTA against c_regions.fasta    
-blastn -query $TEMP_FASTA -out $BLAST_OUTPUT -outfmt 6 -subject c_regions.fasta
+blastn -task blastn -query $TEMP_FASTA -out $BLAST_OUTPUT -outfmt 10 -subject $CREGION_FASTA
+
+# Add header to blast output file (from -outfmt 7)
+HEADER='query_id,subject_id,percent_identity,alignment_length,mismatches,gap_opens,query_start,query_end,subject_start,subject_end,evalue,bit_score'
+
+echo $HEADER | cat - $BLAST_OUTPUT > ${BLAST_OUTPUT}.tmp && mv ${BLAST_OUTPUT}.tmp $BLAST_OUTPUT
+
+# Remove temporary files
+rm $TEMP_FASTA
+rm $FULLSEQ_TEMP
