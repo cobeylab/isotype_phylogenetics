@@ -1,0 +1,6151 @@
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0IX2
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0IX2
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0IX2
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0IX2
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0IX2
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0IX2
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A0IX2	IgA1	98.13	107	2	0	117	223	1	107	8e-52	 187
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0IX2
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A0IX2	IgA2	92.52	107	8	0	117	223	1	107	7e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0IX2
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0IX2
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3VIC
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3VIC
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3VIC
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3VIC
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3VIC
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3VIC
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B3VIC	IgA1	99.07	108	0	1	114	221	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3VIC
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B3VIC	IgA2	92.59	108	7	1	114	221	1	107	7e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3VIC
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3VIC
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ALT6Z
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ALT6Z
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ALT6Z
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ALT6Z
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ALT6Z
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ALT6Z
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01ALT6Z	IgA1	99.07	107	1	0	180	286	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ALT6Z
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01ALT6Z	IgA2	92.52	107	8	0	180	286	1	107	1e-41	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ALT6Z
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ALT6Z
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQGMU
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQGMU
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQGMU
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQGMU
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQGMU
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQGMU
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BQGMU	IgA1	100.00	107	0	0	204	310	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQGMU
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BQGMU	IgA2	93.46	107	7	0	204	310	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQGMU
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQGMU
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTXER
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTXER
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTXER
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTXER
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTXER
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTXER
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BTXER	IgA1	100.00	107	0	0	209	315	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTXER
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BTXER	IgA2	93.46	107	7	0	209	315	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTXER
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTXER
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX8E3
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX8E3
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX8E3
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX8E3
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX8E3
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX8E3
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BX8E3	IgA1	100.00	107	0	0	210	316	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX8E3
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BX8E3	IgA2	93.46	107	7	0	210	316	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX8E3
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX8E3
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4CTN
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4CTN
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4CTN
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4CTN
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4CTN
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4CTN
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A4CTN	IgA1	100.00	107	0	0	167	273	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4CTN
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A4CTN	IgA2	93.46	107	7	0	167	273	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4CTN
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4CTN
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AJJ24
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AJJ24
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AJJ24
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AJJ24
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AJJ24
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AJJ24
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AJJ24	IgA1	99.07	107	0	1	131	236	1	107	6e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AJJ24
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AJJ24	IgA2	92.52	107	7	1	131	236	1	107	3e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AJJ24
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AJJ24
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B0VE8
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B0VE8
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B0VE8
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B0VE8
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B0VE8
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B0VE8
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B0VE8	IgA1	100.00	107	0	0	163	269	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B0VE8
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B0VE8	IgA2	93.46	107	7	0	163	269	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B0VE8
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B0VE8
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVZCL
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVZCL
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVZCL
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVZCL
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVZCL
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVZCL
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BVZCL	IgA1	99.07	107	1	0	113	219	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVZCL
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BVZCL	IgA2	92.52	107	8	0	113	219	1	107	7e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVZCL
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVZCL
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AN129
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AN129
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AN129
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AN129
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AN129
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AN129
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AN129	IgA1	100.00	107	0	0	156	262	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AN129
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AN129	IgA2	93.46	107	7	0	156	262	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AN129
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AN129
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU3TG
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU3TG
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU3TG
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU3TG
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU3TG
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU3TG
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BU3TG	IgA1	100.00	107	0	0	149	255	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU3TG
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BU3TG	IgA2	93.46	107	7	0	149	255	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU3TG
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU3TG
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTULG
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTULG
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTULG
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTULG
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTULG
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTULG
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BTULG	IgA1	99.07	107	1	0	189	295	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTULG
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BTULG	IgA2	92.52	107	8	0	189	295	1	107	1e-41	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTULG
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTULG
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUMEM
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUMEM
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUMEM
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUMEM
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUMEM
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUMEM
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BUMEM	IgA1	100.00	107	0	0	192	298	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUMEM
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BUMEM	IgA2	93.46	107	7	0	192	298	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUMEM
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUMEM
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6AK1
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6AK1
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6AK1
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6AK1
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6AK1
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6AK1
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B6AK1	IgA1	98.96	96	1	0	207	302	1	96	3e-47	 172
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6AK1
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B6AK1	IgA2	91.67	96	8	0	207	302	1	96	1e-35	 134
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6AK1
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6AK1
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKNMP
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKNMP
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKNMP
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKNMP
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKNMP
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKNMP
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BKNMP	IgA1	100.00	107	0	0	178	284	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKNMP
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BKNMP	IgA2	93.46	107	7	0	178	284	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKNMP
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKNMP
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGTYB
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGTYB
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGTYB
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGTYB
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGTYB
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGTYB
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CGTYB	IgA1	100.00	105	0	0	183	287	1	105	6e-54	 195
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGTYB
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CGTYB	IgA2	93.33	105	7	0	183	287	1	105	3e-42	 156
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGTYB
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGTYB
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B1JPR
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B1JPR
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B1JPR
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B1JPR
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B1JPR
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B1JPR
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B1JPR	IgA1	100.00	107	0	0	178	284	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B1JPR
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B1JPR	IgA2	93.46	107	7	0	178	284	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B1JPR
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B1JPR
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6N0S
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6N0S
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6N0S
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6N0S
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6N0S
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6N0S
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B6N0S	IgA1	100.00	107	0	0	163	269	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6N0S
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B6N0S	IgA2	93.46	107	7	0	163	269	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6N0S
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6N0S
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B948R
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B948R
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B948R
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B948R
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B948R
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B948R
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B948R	IgA1	100.00	107	0	0	178	284	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B948R
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B948R	IgA2	93.46	107	7	0	178	284	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B948R
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B948R
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNEKS
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNEKS
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNEKS
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNEKS
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNEKS
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNEKS
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BNEKS	IgA1	100.00	107	0	0	106	212	1	107	3e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNEKS
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BNEKS	IgA2	93.46	107	7	0	106	212	1	107	1e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNEKS
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNEKS
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CA3QE
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CA3QE
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CA3QE
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CA3QE
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CA3QE
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CA3QE
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CA3QE	IgA1	100.00	107	0	0	108	214	1	107	3e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CA3QE
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CA3QE	IgA2	93.46	107	7	0	108	214	1	107	1e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CA3QE
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CA3QE
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BA0UX
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BA0UX
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BA0UX
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BA0UX
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BA0UX
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BA0UX
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BA0UX	IgA1	99.07	107	0	1	149	254	1	107	7e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BA0UX
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BA0UX	IgA2	92.52	107	7	1	149	254	1	107	3e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BA0UX
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BA0UX
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGADS
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGADS
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGADS
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGADS
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGADS
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGADS
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CGADS	IgA1	99.07	107	1	0	177	283	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGADS
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CGADS	IgA2	92.52	107	8	0	177	283	1	107	9e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGADS
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGADS
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0N1O
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0N1O
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0N1O
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0N1O
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0N1O
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0N1O
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A0N1O	IgA1	100.00	107	0	0	217	323	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0N1O
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A0N1O	IgA2	93.46	107	7	0	217	323	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0N1O
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0N1O
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7X9R
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7X9R
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7X9R
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7X9R
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7X9R
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7X9R
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A7X9R	IgA1	100.00	107	0	0	190	296	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7X9R
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A7X9R	IgA2	93.46	107	7	0	190	296	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7X9R
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7X9R
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKJZU
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKJZU
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKJZU
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKJZU
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKJZU
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKJZU
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BKJZU	IgA1	100.00	107	0	0	193	299	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKJZU
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BKJZU	IgA2	93.46	107	7	0	193	299	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKJZU
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKJZU
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTMJO
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTMJO
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTMJO
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTMJO
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTMJO
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTMJO
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BTMJO	IgA1	100.00	107	0	0	184	290	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTMJO
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BTMJO	IgA2	93.46	107	7	0	184	290	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTMJO
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BTMJO
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYW24
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYW24
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYW24
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYW24
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYW24
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYW24
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BYW24	IgA1	100.00	107	0	0	204	310	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYW24
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BYW24	IgA2	93.46	107	7	0	204	310	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYW24
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYW24
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQDJ3
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQDJ3
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQDJ3
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQDJ3
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQDJ3
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQDJ3
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AQDJ3	IgA1	100.00	107	0	0	177	283	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQDJ3
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AQDJ3	IgA2	93.46	107	7	0	177	283	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQDJ3
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQDJ3
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLHRX
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLHRX
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLHRX
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLHRX
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLHRX
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLHRX
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BLHRX	IgA1	100.00	107	0	0	166	272	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLHRX
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BLHRX	IgA2	93.46	107	7	0	166	272	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLHRX
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLHRX
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU5A5
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU5A5
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU5A5
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU5A5
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU5A5
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU5A5
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BU5A5	IgA1	100.00	107	0	0	158	264	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU5A5
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BU5A5	IgA2	93.46	107	7	0	158	264	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU5A5
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BU5A5
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCIZ4
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCIZ4
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCIZ4
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCIZ4
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCIZ4
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCIZ4
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BCIZ4	IgA1	99.07	107	0	1	143	248	1	107	7e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCIZ4
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BCIZ4	IgA2	92.52	107	7	1	143	248	1	107	3e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCIZ4
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCIZ4
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0WZT
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0WZT
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0WZT
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0WZT
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0WZT
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0WZT
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A0WZT	IgA1	100.00	107	0	0	204	310	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0WZT
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A0WZT	IgA2	93.46	107	7	0	204	310	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0WZT
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0WZT
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOS93
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOS93
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOS93
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOS93
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOS93
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOS93
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AOS93	IgA1	100.00	107	0	0	174	280	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOS93
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AOS93	IgA2	93.46	107	7	0	174	280	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOS93
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOS93
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1WZQ
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1WZQ
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1WZQ
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1WZQ
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1WZQ
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1WZQ
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A1WZQ	IgA1	100.00	107	0	0	185	291	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1WZQ
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A1WZQ	IgA2	93.46	107	7	0	185	291	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1WZQ
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1WZQ
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7N2W
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7N2W
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7N2W
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7N2W
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7N2W
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7N2W
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A7N2W	IgA1	100.00	107	0	0	190	296	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7N2W
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A7N2W	IgA2	93.46	107	7	0	190	296	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7N2W
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7N2W
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8XMX
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8XMX
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8XMX
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8XMX
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8XMX
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8XMX
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A8XMX	IgA1	100.00	107	0	0	223	329	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8XMX
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A8XMX	IgA2	93.46	107	7	0	223	329	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8XMX
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8XMX
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWLWP
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWLWP
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWLWP
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWLWP
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWLWP
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWLWP
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BWLWP	IgA1	100.00	105	0	0	184	288	1	105	6e-54	 195
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWLWP
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BWLWP	IgA2	93.33	105	7	0	184	288	1	105	3e-42	 156
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWLWP
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWLWP
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1AZQ
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1AZQ
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1AZQ
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1AZQ
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1AZQ
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1AZQ
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A1AZQ	IgA1	100.00	105	0	0	179	283	1	105	6e-54	 195
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1AZQ
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A1AZQ	IgA2	93.33	105	7	0	179	283	1	105	3e-42	 156
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1AZQ
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1AZQ
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AKR4I
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AKR4I
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AKR4I
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AKR4I
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AKR4I
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AKR4I
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AKR4I	IgA1	100.00	86	0	0	118	203	1	86	1e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AKR4I
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AKR4I	IgA2	91.86	86	7	0	118	203	1	86	7e-32	 121
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AKR4I
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AKR4I
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AP2XO
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AP2XO
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AP2XO
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AP2XO
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AP2XO
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AP2XO
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AP2XO	IgA1	99.07	107	1	0	124	230	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AP2XO
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AP2XO	IgA2	93.46	107	7	0	124	230	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AP2XO
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AP2XO
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ARFI7
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ARFI7
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ARFI7
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ARFI7
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ARFI7
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ARFI7
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01ARFI7	IgA1	98.13	107	1	1	171	276	1	107	3e-51	 185
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ARFI7
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01ARFI7	IgA2	91.59	107	8	1	171	276	1	107	2e-39	 147
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ARFI7
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ARFI7
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV1AM
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV1AM
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV1AM
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV1AM
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV1AM
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV1AM
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AV1AM	IgA1	100.00	107	0	0	174	280	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV1AM
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AV1AM	IgA2	93.46	107	7	0	174	280	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV1AM
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV1AM
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJXVT
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJXVT
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJXVT
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJXVT
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJXVT
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJXVT
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BJXVT	IgA1	97.20	107	3	0	140	246	1	107	4e-50	 182
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJXVT
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BJXVT	IgA2	92.52	107	8	0	140	246	1	107	8e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJXVT
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJXVT
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT2FC
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT2FC
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT2FC
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT2FC
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT2FC
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT2FC
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BT2FC	IgA1	99.07	107	0	1	149	254	1	107	7e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT2FC
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BT2FC	IgA2	92.52	107	7	1	149	254	1	107	3e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT2FC
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT2FC
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6FSV
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6FSV
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6FSV
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6FSV
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6FSV
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6FSV
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B6FSV	IgA1	100.00	107	0	0	174	280	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6FSV
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B6FSV	IgA2	93.46	107	7	0	174	280	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6FSV
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6FSV
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEW9H
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEW9H
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEW9H
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEW9H
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEW9H
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEW9H
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BEW9H	IgA1	99.07	107	1	0	179	285	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEW9H
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BEW9H	IgA2	92.52	107	8	0	179	285	1	107	1e-41	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEW9H
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEW9H
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVH9C
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVH9C
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVH9C
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVH9C
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVH9C
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVH9C
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BVH9C	IgA1	99.07	107	0	1	174	279	1	107	7e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVH9C
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BVH9C	IgA2	92.52	107	7	1	174	279	1	107	3e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVH9C
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVH9C
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWGZR
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWGZR
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWGZR
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWGZR
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWGZR
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWGZR
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BWGZR	IgA1	100.00	107	0	0	148	254	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWGZR
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BWGZR	IgA2	93.46	107	7	0	148	254	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWGZR
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWGZR
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A5G0V
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A5G0V
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A5G0V
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A5G0V
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A5G0V
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A5G0V
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A5G0V	IgA1	99.07	107	0	1	108	213	1	107	6e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A5G0V
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A5G0V	IgA2	92.52	107	7	1	108	213	1	107	3e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A5G0V
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A5G0V
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BAF4L
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BAF4L
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BAF4L
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BAF4L
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BAF4L
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BAF4L
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BAF4L	IgA1	98.13	107	2	0	109	215	1	107	7e-52	 187
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BAF4L
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BAF4L	IgA2	92.52	107	8	0	109	215	1	107	7e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BAF4L
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BAF4L
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B78S8
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B78S8
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B78S8
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B78S8
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B78S8
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B78S8
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B78S8	IgA1	100.00	107	0	0	174	280	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B78S8
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B78S8	IgA2	93.46	107	7	0	174	280	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B78S8
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B78S8
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDY9C
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDY9C
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDY9C
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDY9C
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDY9C
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDY9C
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BDY9C	IgA1	100.00	107	0	0	137	243	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDY9C
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BDY9C	IgA2	93.46	107	7	0	137	243	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDY9C
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDY9C
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZC0X
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZC0X
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZC0X
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZC0X
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZC0X
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZC0X
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BZC0X	IgA1	100.00	95	0	0	167	261	1	95	2e-48	 176
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZC0X
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BZC0X	IgA2	92.63	95	7	0	167	261	1	95	8e-37	 137
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZC0X
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZC0X
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3I1E
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3I1E
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3I1E
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3I1E
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3I1E
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3I1E
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B3I1E	IgA1	100.00	107	0	0	129	235	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3I1E
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B3I1E	IgA2	93.46	107	7	0	129	235	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3I1E
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3I1E
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6IK9
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6IK9
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6IK9
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6IK9
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6IK9
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6IK9
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B6IK9	IgA1	100.00	107	0	0	178	284	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6IK9
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B6IK9	IgA2	93.46	107	7	0	178	284	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6IK9
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6IK9
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCLB2
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCLB2
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCLB2
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCLB2
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCLB2
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCLB2
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BCLB2	IgA1	100.00	107	0	0	177	283	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCLB2
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BCLB2	IgA2	93.46	107	7	0	177	283	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCLB2
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BCLB2
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2KAH
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2KAH
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2KAH
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2KAH
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2KAH
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2KAH
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A2KAH	IgA1	99.07	107	1	0	163	269	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2KAH
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A2KAH	IgA2	92.52	107	8	0	163	269	1	107	9e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2KAH
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2KAH
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AL8UW
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AL8UW
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AL8UW
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AL8UW
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AL8UW
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AL8UW
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AL8UW	IgA1	100.00	107	0	0	174	280	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AL8UW
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AL8UW	IgA2	93.46	107	7	0	174	280	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AL8UW
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AL8UW
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BPI4V
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BPI4V
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BPI4V
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BPI4V
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BPI4V
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BPI4V
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BPI4V	IgA1	100.00	107	0	0	139	245	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BPI4V
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BPI4V	IgA2	93.46	107	7	0	139	245	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BPI4V
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BPI4V
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A67M2
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A67M2
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A67M2
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A67M2
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A67M2
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A67M2
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A67M2	IgA1	100.00	107	0	0	174	280	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A67M2
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A67M2	IgA2	93.46	107	7	0	174	280	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A67M2
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A67M2
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BE4Q8
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BE4Q8
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BE4Q8
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BE4Q8
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BE4Q8
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BE4Q8
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BE4Q8	IgA1	99.07	107	1	0	131	237	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BE4Q8
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BE4Q8	IgA2	92.52	107	8	0	131	237	1	107	8e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BE4Q8
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BE4Q8
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3SA9
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3SA9
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3SA9
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3SA9
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3SA9
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3SA9
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B3SA9	IgA1	100.00	107	0	0	156	262	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3SA9
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B3SA9	IgA2	93.46	107	7	0	156	262	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3SA9
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B3SA9
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BC0Y3
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BC0Y3
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BC0Y3
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BC0Y3
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BC0Y3
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BC0Y3
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BC0Y3	IgA1	99.07	107	1	0	177	283	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BC0Y3
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BC0Y3	IgA2	92.52	107	8	0	177	283	1	107	9e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BC0Y3
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BC0Y3
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKD57
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKD57
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKD57
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKD57
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKD57
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKD57
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BKD57	IgA1	100.00	107	0	0	177	283	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKD57
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BKD57	IgA2	93.46	107	7	0	177	283	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKD57
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKD57
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI01Z
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI01Z
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI01Z
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI01Z
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI01Z
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI01Z
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CI01Z	IgA1	98.97	97	1	0	163	259	1	97	7e-48	 174
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI01Z
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CI01Z	IgA2	91.75	97	8	0	163	259	1	97	3e-36	 135
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI01Z
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI01Z
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ33H
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ33H
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ33H
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ33H
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ33H
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ33H
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BQ33H	IgA1	100.00	107	0	0	174	280	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ33H
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BQ33H	IgA2	93.46	107	7	0	174	280	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ33H
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ33H
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B7HWR
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B7HWR
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B7HWR
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B7HWR
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B7HWR
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B7HWR
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B7HWR	IgA1	98.13	107	1	1	233	338	1	107	4e-51	 185
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B7HWR
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B7HWR	IgA2	91.59	107	8	1	233	338	1	107	2e-39	 147
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B7HWR
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B7HWR
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0XLU
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0XLU
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0XLU
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0XLU
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0XLU
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0XLU
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A0XLU	IgA1	100.00	107	0	0	174	280	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0XLU
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A0XLU	IgA2	93.46	107	7	0	174	280	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0XLU
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A0XLU
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9IML
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9IML
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9IML
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9IML
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9IML
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9IML
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A9IML	IgA1	100.00	107	0	0	174	280	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9IML
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A9IML	IgA2	93.46	107	7	0	174	280	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9IML
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9IML
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOZ9J
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOZ9J
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOZ9J
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOZ9J
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOZ9J
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOZ9J
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AOZ9J	IgA1	100.00	107	0	0	158	264	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOZ9J
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AOZ9J	IgA2	93.46	107	7	0	158	264	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOZ9J
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AOZ9J
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3RX
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3RX
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3RX
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3RX
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3RX
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3RX
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AW3RX	IgA1	99.07	107	0	1	138	243	1	107	6e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3RX
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AW3RX	IgA2	92.52	107	7	1	138	243	1	107	3e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3RX
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3RX
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWD22
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWD22
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWD22
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWD22
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWD22
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWD22
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BWD22	IgA1	100.00	107	0	0	149	255	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWD22
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BWD22	IgA2	93.46	107	7	0	149	255	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWD22
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWD22
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A3ZVN
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A3ZVN
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A3ZVN
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A3ZVN
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A3ZVN
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A3ZVN
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A3ZVN	IgA1	99.07	107	1	0	230	336	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A3ZVN
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A3ZVN	IgA2	92.52	107	8	0	230	336	1	107	1e-41	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A3ZVN
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A3ZVN
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9Y4Z
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9Y4Z
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9Y4Z
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9Y4Z
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9Y4Z
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9Y4Z
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A9Y4Z	IgA1	100.00	107	0	0	185	291	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9Y4Z
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A9Y4Z	IgA2	93.46	107	7	0	185	291	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9Y4Z
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9Y4Z
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDV43
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDV43
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDV43
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDV43
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDV43
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDV43
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BDV43	IgA1	100.00	107	0	0	222	328	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDV43
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BDV43	IgA2	93.46	107	7	0	222	328	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDV43
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BDV43
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9OU7
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9OU7
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9OU7
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9OU7
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9OU7
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9OU7
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A9OU7	IgA1	100.00	107	0	0	180	286	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9OU7
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A9OU7	IgA2	93.46	107	7	0	180	286	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9OU7
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9OU7
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6PQI
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6PQI
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6PQI
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6PQI
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6PQI
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6PQI
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B6PQI	IgA1	96.30	108	3	1	131	238	1	107	2e-48	 176
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6PQI
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B6PQI	IgA2	91.67	108	8	1	131	238	1	107	4e-40	 148
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6PQI
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6PQI
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQEYD
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQEYD
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQEYD
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQEYD
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQEYD
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQEYD
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AQEYD	IgA1	98.17	109	0	2	167	275	1	107	3e-52	 189
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQEYD
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AQEYD	IgA2	91.74	109	7	2	167	275	1	107	1e-40	 150
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQEYD
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQEYD
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BS95L
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BS95L
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BS95L
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BS95L
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BS95L
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BS95L
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BS95L	IgA1	100.00	107	0	0	150	256	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BS95L
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BS95L	IgA2	93.46	107	7	0	150	256	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BS95L
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BS95L
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B2FJ2
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B2FJ2
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B2FJ2
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B2FJ2
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B2FJ2
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B2FJ2
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B2FJ2	IgA1	100.00	107	0	0	157	263	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B2FJ2
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B2FJ2	IgA2	93.46	107	7	0	157	263	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B2FJ2
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B2FJ2
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BB92Q
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BB92Q
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BB92Q
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BB92Q
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BB92Q
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BB92Q
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BB92Q	IgA1	98.96	96	1	0	174	269	1	96	2e-47	 172
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BB92Q
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BB92Q	IgA2	91.67	96	8	0	174	269	1	96	1e-35	 134
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BB92Q
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BB92Q
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX77G
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX77G
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX77G
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX77G
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX77G
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX77G
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BX77G	IgA1	100.00	102	0	0	229	330	1	102	3e-52	 189
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX77G
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BX77G	IgA2	93.14	102	7	0	229	330	1	102	1e-40	 150
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX77G
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX77G
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B63OW
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B63OW
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B63OW
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B63OW
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B63OW
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B63OW
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B63OW	IgA1	99.07	107	0	1	99	204	1	107	5e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B63OW
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B63OW	IgA2	92.52	107	7	1	99	204	1	107	2e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B63OW
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B63OW
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNGR0
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNGR0
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNGR0
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNGR0
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNGR0
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNGR0
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BNGR0	IgA1	100.00	107	0	0	179	285	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNGR0
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BNGR0	IgA2	93.46	107	7	0	179	285	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNGR0
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BNGR0
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVONN
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVONN
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVONN
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVONN
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVONN
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVONN
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BVONN	IgA1	100.00	107	0	0	199	305	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVONN
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BVONN	IgA2	93.46	107	7	0	199	305	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVONN
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVONN
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1QS2
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1QS2
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1QS2
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1QS2
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1QS2
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1QS2
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A1QS2	IgA1	100.00	107	0	0	178	284	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1QS2
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A1QS2	IgA2	93.46	107	7	0	178	284	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1QS2
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1QS2
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQMUA
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQMUA
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQMUA
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQMUA
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQMUA
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQMUA
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BQMUA	IgA1	99.07	107	1	0	161	267	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQMUA
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BQMUA	IgA2	92.52	107	8	0	161	267	1	107	9e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQMUA
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQMUA
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BV5HL
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BV5HL
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BV5HL
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BV5HL
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BV5HL
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BV5HL
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BV5HL	IgA1	100.00	107	0	0	157	263	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BV5HL
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BV5HL	IgA2	93.46	107	7	0	157	263	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BV5HL
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BV5HL
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX6BW
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX6BW
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX6BW
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX6BW
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX6BW
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX6BW
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BX6BW	IgA1	100.00	107	0	0	146	252	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX6BW
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BX6BW	IgA2	93.46	107	7	0	146	252	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX6BW
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BX6BW
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUM2C
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUM2C
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUM2C
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUM2C
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUM2C
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUM2C
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BUM2C	IgA1	100.00	107	0	0	149	255	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUM2C
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BUM2C	IgA2	93.46	107	7	0	149	255	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUM2C
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUM2C
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CH9YW
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CH9YW
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CH9YW
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CH9YW
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CH9YW
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CH9YW
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CH9YW	IgA1	100.00	107	0	0	167	273	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CH9YW
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CH9YW	IgA2	93.46	107	7	0	167	273	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CH9YW
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CH9YW
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1ZB0
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1ZB0
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1ZB0
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1ZB0
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1ZB0
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1ZB0
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A1ZB0	IgA1	100.00	107	0	0	149	255	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1ZB0
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A1ZB0	IgA2	93.46	107	7	0	149	255	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1ZB0
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A1ZB0
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2LVY
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2LVY
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2LVY
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2LVY
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2LVY
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2LVY
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A2LVY	IgA1	100.00	107	0	0	160	266	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2LVY
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A2LVY	IgA2	93.46	107	7	0	160	266	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2LVY
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2LVY
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A34FR
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A34FR
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A34FR
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A34FR
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A34FR
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A34FR
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A34FR	IgA1	100.00	107	0	0	223	329	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A34FR
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A34FR	IgA2	93.46	107	7	0	223	329	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A34FR
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A34FR
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AM5LR
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AM5LR
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AM5LR
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AM5LR
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AM5LR
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AM5LR
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AM5LR	IgA1	100.00	107	0	0	178	284	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AM5LR
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AM5LR	IgA2	93.46	107	7	0	178	284	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AM5LR
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AM5LR
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7HU6
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7HU6
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7HU6
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7HU6
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7HU6
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7HU6
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A7HU6	IgA1	98.13	107	2	0	197	303	1	107	1e-51	 187
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7HU6
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A7HU6	IgA2	92.52	107	8	0	197	303	1	107	1e-41	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7HU6
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A7HU6
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYGYO
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYGYO
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYGYO
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYGYO
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYGYO
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYGYO
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BYGYO	IgA1	100.00	107	0	0	179	285	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYGYO
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BYGYO	IgA2	93.46	107	7	0	179	285	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYGYO
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BYGYO
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CBE8C
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CBE8C
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CBE8C
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CBE8C
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CBE8C
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CBE8C
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CBE8C	IgA1	99.07	107	0	1	180	285	1	107	8e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CBE8C
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CBE8C	IgA2	92.52	107	7	1	180	285	1	107	3e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CBE8C
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CBE8C
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCSBR
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCSBR
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCSBR
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCSBR
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCSBR
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCSBR
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CCSBR	IgA1	100.00	107	0	0	180	286	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCSBR
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CCSBR	IgA2	93.46	107	7	0	180	286	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCSBR
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCSBR
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCMJJ
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCMJJ
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCMJJ
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCMJJ
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCMJJ
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCMJJ
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CCMJJ	IgA1	98.13	107	2	0	177	283	1	107	1e-51	 187
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCMJJ
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CCMJJ	IgA2	91.59	107	9	0	177	283	1	107	4e-40	 148
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCMJJ
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CCMJJ
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A56FV
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A56FV
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A56FV
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A56FV
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A56FV
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A56FV
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A56FV	IgA1	100.00	107	0	0	180	286	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A56FV
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A56FV	IgA2	93.46	107	7	0	180	286	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A56FV
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A56FV
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATSIY
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATSIY
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATSIY
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATSIY
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATSIY
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATSIY
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01ATSIY	IgA1	100.00	107	0	0	177	283	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATSIY
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01ATSIY	IgA2	93.46	107	7	0	177	283	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATSIY
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATSIY
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZ13I
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZ13I
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZ13I
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZ13I
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZ13I
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZ13I
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AZ13I	IgA1	100.00	107	0	0	163	269	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZ13I
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AZ13I	IgA2	93.46	107	7	0	163	269	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZ13I
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZ13I
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6Z6G
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6Z6G
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6Z6G
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6Z6G
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6Z6G
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6Z6G
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B6Z6G	IgA1	99.07	107	0	1	229	334	1	107	9e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6Z6G
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B6Z6G	IgA2	92.52	107	7	1	229	334	1	107	4e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6Z6G
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B6Z6G
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BGQOC
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BGQOC
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BGQOC
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BGQOC
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BGQOC
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BGQOC
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BGQOC	IgA1	99.07	107	0	1	183	288	1	107	8e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BGQOC
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BGQOC	IgA2	92.52	107	7	1	183	288	1	107	3e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BGQOC
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BGQOC
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ9UD
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ9UD
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ9UD
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ9UD
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ9UD
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ9UD
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BQ9UD	IgA1	100.00	107	0	0	204	310	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ9UD
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BQ9UD	IgA2	93.46	107	7	0	204	310	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ9UD
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BQ9UD
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLECE
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLECE
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLECE
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLECE
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLECE
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLECE
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BLECE	IgA1	100.00	107	0	0	216	322	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLECE
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BLECE	IgA2	93.46	107	7	0	216	322	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLECE
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BLECE
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZWGM
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZWGM
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZWGM
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZWGM
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZWGM
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZWGM
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BZWGM	IgA1	99.07	108	0	1	237	344	1	107	3e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZWGM
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BZWGM	IgA2	92.59	108	7	1	237	344	1	107	1e-41	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZWGM
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZWGM
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQI8Y
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQI8Y
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQI8Y
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQI8Y
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQI8Y
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQI8Y
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AQI8Y	IgA1	100.00	107	0	0	141	247	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQI8Y
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AQI8Y	IgA2	93.46	107	7	0	141	247	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQI8Y
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AQI8Y
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATFNL
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATFNL
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATFNL
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATFNL
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATFNL
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATFNL
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01ATFNL	IgA1	100.00	107	0	0	123	229	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATFNL
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01ATFNL	IgA2	93.46	107	7	0	123	229	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATFNL
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATFNL
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B67ZL
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B67ZL
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B67ZL
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B67ZL
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B67ZL
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B67ZL
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B67ZL	IgA1	99.07	107	1	0	174	280	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B67ZL
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B67ZL	IgA2	92.52	107	8	0	174	280	1	107	9e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B67ZL
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B67ZL
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO7VB
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO7VB
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO7VB
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO7VB
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO7VB
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO7VB
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BO7VB	IgA1	100.00	107	0	0	137	243	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO7VB
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BO7VB	IgA2	93.46	107	7	0	137	243	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO7VB
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO7VB
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATZFA
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATZFA
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATZFA
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATZFA
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATZFA
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATZFA
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01ATZFA	IgA1	98.96	96	1	0	164	259	1	96	2e-47	 172
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATZFA
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01ATZFA	IgA2	91.67	96	8	0	164	259	1	96	1e-35	 134
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATZFA
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01ATZFA
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEF2X
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEF2X
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEF2X
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEF2X
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEF2X
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEF2X
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CEF2X	IgA1	100.00	107	0	0	160	266	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEF2X
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CEF2X	IgA2	93.46	107	7	0	160	266	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEF2X
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEF2X
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKB8M
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKB8M
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKB8M
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKB8M
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKB8M
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKB8M
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BKB8M	IgA1	100.00	107	0	0	170	276	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKB8M
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BKB8M	IgA2	93.46	107	7	0	170	276	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKB8M
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BKB8M
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI3XC
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI3XC
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI3XC
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI3XC
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI3XC
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI3XC
+# Subject: IgA1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI3XC
+# Subject: IgA2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI3XC
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CI3XC
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B28RN
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B28RN
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B28RN
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B28RN
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B28RN
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B28RN
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B28RN	IgA1	99.07	107	1	0	160	266	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B28RN
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B28RN	IgA2	92.52	107	8	0	160	266	1	107	9e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B28RN
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B28RN
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BHS4U
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BHS4U
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BHS4U
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BHS4U
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BHS4U
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BHS4U
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BHS4U	IgA1	100.00	107	0	0	157	263	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BHS4U
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BHS4U	IgA2	93.46	107	7	0	157	263	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BHS4U
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BHS4U
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8YG6
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8YG6
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8YG6
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8YG6
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8YG6
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8YG6
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A8YG6	IgA1	91.74	109	1	8	174	276	1	107	6e-39	 145
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8YG6
+# Subject: IgA2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8YG6
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A8YG6
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV3ZQ
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV3ZQ
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV3ZQ
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV3ZQ
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV3ZQ
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV3ZQ
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AV3ZQ	IgA1	99.07	107	1	0	160	266	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV3ZQ
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AV3ZQ	IgA2	92.52	107	8	0	160	266	1	107	9e-42	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV3ZQ
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AV3ZQ
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B48W0
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B48W0
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B48W0
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B48W0
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B48W0
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B48W0
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B48W0	IgA1	99.07	107	1	0	178	284	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B48W0
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B48W0	IgA2	92.52	107	8	0	178	284	1	107	1e-41	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B48W0
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B48W0
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUXU2
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUXU2
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUXU2
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUXU2
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUXU2
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUXU2
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BUXU2	IgA1	99.07	107	1	0	184	290	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUXU2
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BUXU2	IgA2	92.52	107	8	0	184	290	1	107	1e-41	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUXU2
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BUXU2
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEF0
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEF0
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEF0
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEF0
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEF0
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEF0
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CDEF0	IgA1	99.07	107	0	1	174	279	1	107	7e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEF0
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CDEF0	IgA2	92.52	107	7	1	174	279	1	107	3e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEF0
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEF0
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGJP4
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGJP4
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGJP4
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGJP4
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGJP4
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGJP4
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CGJP4	IgA1	100.00	107	0	0	178	284	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGJP4
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CGJP4	IgA2	93.46	107	7	0	178	284	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGJP4
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CGJP4
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2UXE
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2UXE
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2UXE
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2UXE
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2UXE
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2UXE
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A2UXE	IgA1	100.00	102	0	0	226	327	1	102	3e-52	 189
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2UXE
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A2UXE	IgA2	93.14	102	7	0	226	327	1	102	1e-40	 150
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2UXE
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A2UXE
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWK8I
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWK8I
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWK8I
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWK8I
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWK8I
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWK8I
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AWK8I	IgA1	99.07	107	1	0	199	305	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWK8I
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AWK8I	IgA2	92.52	107	8	0	199	305	1	107	1e-41	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWK8I
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWK8I
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWQV4
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWQV4
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWQV4
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWQV4
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWQV4
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWQV4
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AWQV4	IgA1	100.00	107	0	0	103	209	1	107	3e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWQV4
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AWQV4	IgA2	93.46	107	7	0	103	209	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWQV4
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWQV4
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9FQW
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9FQW
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9FQW
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9FQW
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9FQW
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9FQW
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A9FQW	IgA1	98.96	96	1	0	289	384	1	96	4e-47	 172
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9FQW
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A9FQW	IgA2	91.67	96	8	0	289	384	1	96	2e-35	 134
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9FQW
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9FQW
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJ9DV
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJ9DV
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJ9DV
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJ9DV
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJ9DV
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJ9DV
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BJ9DV	IgA1	99.07	107	0	1	243	348	1	107	9e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJ9DV
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BJ9DV	IgA2	92.52	107	7	1	243	348	1	107	4e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJ9DV
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BJ9DV
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAWCS
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAWCS
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAWCS
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAWCS
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAWCS
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAWCS
+# Subject: IgA1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAWCS
+# Subject: IgA2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAWCS
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAWCS
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4XUZ
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4XUZ
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4XUZ
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4XUZ
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4XUZ
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4XUZ
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A4XUZ	IgA1	98.13	107	0	2	174	278	1	107	3e-51	 185
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4XUZ
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A4XUZ	IgA2	91.59	107	7	2	174	278	1	107	2e-39	 147
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4XUZ
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A4XUZ
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AK2LM
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AK2LM
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AK2LM
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AK2LM
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AK2LM
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AK2LM
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AK2LM	IgA1	100.00	107	0	0	178	284	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AK2LM
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AK2LM	IgA2	93.46	107	7	0	178	284	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AK2LM
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AK2LM
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWYPP
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWYPP
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWYPP
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWYPP
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWYPP
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWYPP
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BWYPP	IgA1	100.00	107	0	0	170	276	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWYPP
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BWYPP	IgA2	93.46	107	7	0	170	276	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWYPP
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BWYPP
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEY1
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEY1
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEY1
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEY1
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEY1
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEY1
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CDEY1	IgA1	99.07	108	0	1	181	288	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEY1
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CDEY1	IgA2	92.59	108	7	1	181	288	1	107	1e-41	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEY1
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CDEY1
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZMUV
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZMUV
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZMUV
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZMUV
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZMUV
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZMUV
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AZMUV	IgA1	99.07	107	1	0	178	284	1	107	2e-53	 193
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZMUV
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AZMUV	IgA2	92.52	107	8	0	178	284	1	107	1e-41	 154
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZMUV
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AZMUV
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVW3G
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVW3G
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVW3G
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVW3G
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVW3G
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVW3G
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BVW3G	IgA1	100.00	107	0	0	174	280	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVW3G
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BVW3G	IgA2	93.46	107	7	0	174	280	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVW3G
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BVW3G
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BXWLK
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BXWLK
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BXWLK
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BXWLK
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BXWLK
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BXWLK
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BXWLK	IgA1	98.13	107	1	1	178	283	1	107	3e-51	 185
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BXWLK
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BXWLK	IgA2	91.59	107	8	1	178	283	1	107	2e-39	 147
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BXWLK
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BXWLK
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEWP7
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEWP7
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEWP7
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEWP7
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEWP7
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEWP7
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CEWP7	IgA1	99.07	107	0	1	132	237	1	107	6e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEWP7
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CEWP7	IgA2	92.52	107	7	1	132	237	1	107	3e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEWP7
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CEWP7
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO5WD
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO5WD
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO5WD
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO5WD
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO5WD
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO5WD
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BO5WD	IgA1	100.00	107	0	0	167	273	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO5WD
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BO5WD	IgA2	93.46	107	7	0	167	273	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO5WD
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BO5WD
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZUOV
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZUOV
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZUOV
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZUOV
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZUOV
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZUOV
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BZUOV	IgA1	100.00	107	0	0	176	282	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZUOV
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BZUOV	IgA2	93.46	107	7	0	176	282	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZUOV
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BZUOV
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B26GM
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B26GM
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B26GM
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B26GM
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B26GM
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B26GM
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B26GM	IgA1	100.00	107	0	0	190	296	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B26GM
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B26GM	IgA2	93.46	107	7	0	190	296	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B26GM
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B26GM
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BFL1X
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BFL1X
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BFL1X
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BFL1X
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BFL1X
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BFL1X
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BFL1X	IgA1	100.00	107	0	0	210	316	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BFL1X
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BFL1X	IgA2	93.46	107	7	0	210	316	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BFL1X
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BFL1X
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3IL
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3IL
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3IL
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3IL
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3IL
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3IL
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AW3IL	IgA1	100.00	107	0	0	160	266	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3IL
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AW3IL	IgA2	93.46	107	7	0	160	266	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3IL
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AW3IL
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AY2HF
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AY2HF
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AY2HF
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AY2HF
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AY2HF
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AY2HF
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AY2HF	IgA1	100.00	107	0	0	131	237	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AY2HF
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AY2HF	IgA2	93.46	107	7	0	131	237	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AY2HF
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AY2HF
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B9EYQ
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B9EYQ
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B9EYQ
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B9EYQ
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B9EYQ
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B9EYQ
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B9EYQ	IgA1	100.00	107	0	0	174	280	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B9EYQ
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01B9EYQ	IgA2	93.46	107	7	0	174	280	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B9EYQ
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01B9EYQ
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT9ML
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT9ML
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT9ML
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT9ML
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT9ML
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT9ML
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BT9ML	IgA1	100.00	107	0	0	178	284	1	107	5e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT9ML
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BT9ML	IgA2	93.46	107	7	0	178	284	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT9ML
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BT9ML
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWGX7
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWGX7
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWGX7
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWGX7
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWGX7
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWGX7
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AWGX7	IgA1	100.00	107	0	0	124	230	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWGX7
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AWGX7	IgA2	93.46	107	7	0	124	230	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWGX7
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWGX7
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CIZ0K
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CIZ0K
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CIZ0K
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CIZ0K
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CIZ0K
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CIZ0K
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CIZ0K	IgA1	100.00	107	0	0	120	226	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CIZ0K
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CIZ0K	IgA2	93.46	107	7	0	120	226	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CIZ0K
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CIZ0K
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAQOV
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAQOV
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAQOV
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAQOV
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAQOV
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAQOV
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CAQOV	IgA1	100.00	107	0	0	150	256	1	107	4e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAQOV
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01CAQOV	IgA2	93.46	107	7	0	150	256	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAQOV
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01CAQOV
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9EUO
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9EUO
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9EUO
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9EUO
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9EUO
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9EUO
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A9EUO	IgA1	100.00	107	0	0	109	215	1	107	3e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9EUO
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01A9EUO	IgA2	93.46	107	7	0	109	215	1	107	2e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9EUO
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01A9EUO
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEJ4S
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEJ4S
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEJ4S
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEJ4S
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEJ4S
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEJ4S
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BEJ4S	IgA1	100.00	107	0	0	109	215	1	107	3e-55	 198
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEJ4S
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01BEJ4S	IgA2	93.46	107	7	0	109	215	1	107	1e-43	 159
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEJ4S
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01BEJ4S
+# Subject: IgDseq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWH72
+# Subject: IgM
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWH72
+# Subject: IgG1
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWH72
+# Subject: IgG2
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWH72
+# Subject: IgG3
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWH72
+# Subject: IgG4Seq
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWH72
+# Subject: IgA1
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AWH72	IgA1	99.07	107	0	1	96	201	1	107	5e-53	 191
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWH72
+# Subject: IgA2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+HQVTAQW01AWH72	IgA2	92.52	107	7	1	96	201	1	107	2e-41	 152
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWH72
+# Subject: IgE
+# 0 hits found
+# BLASTN 2.2.28+
+# Query: HQVTAQW01AWH72
+# Subject: IgDseq
+# 0 hits found
+# BLAST processed 154 queries
