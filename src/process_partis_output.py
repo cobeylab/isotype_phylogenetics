@@ -82,47 +82,47 @@ for dataset in dataset_ids:
                 # Number of productive sequences:
                 n_productive = len(p_indices)
 
-                # If there are at least min_clone_size productive sequences:
-                #if n_productive >= min_clone_size:
+                # If there is at least one productive sequence:
+                if n_productive >= 1:
 
-                # Find sequence identifiers
-                seq_ids = row['unique_ids'].split(':')
-                seq_ids = [seq_ids[i] for i in range(len(seq_ids)) if i in p_indices]
+                    # Find sequence identifiers
+                    seq_ids = row['unique_ids'].split(':')
+                    seq_ids = [seq_ids[i] for i in range(len(seq_ids)) if i in p_indices]
 
-                assert len(seq_ids) == n_productive
+                    assert len(seq_ids) == n_productive
 
-                # Find sequences:
-                clone_sequences = row['input_seqs'].split(':')
-                clone_sequences = [clone_sequences[i] for i in range(len(clone_sequences)) if i in p_indices]
+                    # Find sequences:
+                    clone_sequences = row['input_seqs'].split(':')
+                    clone_sequences = [clone_sequences[i] for i in range(len(clone_sequences)) if i in p_indices]
 
-                # Remove 'N' nucleotides introduced by Partis at beginning of seq.
-                for i in range(len(clone_sequences)):
-                    clone_sequences[i] = re.sub(r'N*[^ATCG]', '', clone_sequences[i], count=1)
-                    clone_sequences[i] = re.sub(r'N*[^ATCG]\Z', '', clone_sequences[i], count=1)
+                    # Remove 'N' nucleotides introduced by Partis at beginning of seq.
+                    for i in range(len(clone_sequences)):
+                        clone_sequences[i] = re.sub(r'N*[^ATCG]', '', clone_sequences[i], count=1)
+                        clone_sequences[i] = re.sub(r'N*[^ATCG]\Z', '', clone_sequences[i], count=1)
 
-                    #N_string = re.search(r'N*[^ATCG]', clone_sequences[i])
-                    #if N_string != None:
-                    #    clone_sequences[i] = clone_sequences[i].replace(N_string.group(), '')
+                        #N_string = re.search(r'N*[^ATCG]', clone_sequences[i])
+                        #if N_string != None:
+                        #    clone_sequences[i] = clone_sequences[i].replace(N_string.group(), '')
 
-                # Find naive sequence
-                naive_seq = row['naive_seq']
+                    # Find naive sequence
+                    naive_seq = row['naive_seq']
 
-                # Remove 'N' nucleotides introduced by Partis at beginning or end of sequence:
-                naive_seq = re.sub(r'N*[^ATCG]', '',naive_seq, count = 1)
-                naive_seq = re.sub(r'N*[^ATCG]\Z', '', naive_seq, count=1)
+                    # Remove 'N' nucleotides introduced by Partis at beginning or end of sequence:
+                    naive_seq = re.sub(r'N*[^ATCG]', '',naive_seq, count = 1)
+                    naive_seq = re.sub(r'N*[^ATCG]\Z', '', naive_seq, count=1)
 
-                # Write sequences to clone-specific fasta file:
-                clone_file_name = '../results/clones/' + dataset + '_clone_' + str(row_counter) + '.fasta'
-                print 'clone_' + str(row_counter)
+                    # Write sequences to clone-specific fasta file:
+                    clone_file_name = '../results/clones/' + dataset + '_clone_' + str(row_counter) + '.fasta'
+                    print 'clone_' + str(row_counter)
 
-                with open(clone_file_name, 'w') as clone_fasta_file:
-                    # Write naive sequence
-                    clone_fasta_file.write('>NAIVE\n')
-                    clone_fasta_file.write(naive_seq + '\n\n')
+                    with open(clone_file_name, 'w') as clone_fasta_file:
+                        # Write naive sequence
+                        clone_fasta_file.write('>NAIVE\n')
+                        clone_fasta_file.write(naive_seq + '\n\n')
 
-                    # Write observed sequences:
-                    for i in range(len(seq_ids)):
-                        clone_fasta_file.write('>' + seq_ids[i] + '\n')
-                        clone_fasta_file.write(clone_sequences[i] + '\n\n')
+                        # Write observed sequences:
+                        for i in range(len(seq_ids)):
+                            clone_fasta_file.write('>' + seq_ids[i] + '\n')
+                            clone_fasta_file.write(clone_sequences[i] + '\n\n')
 
-                row_counter += 1
+            row_counter += 1

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Takes a clone, finds its sequence identifiers, looks in the processed fasta files for the original sequences (including the constant regions), and blasts them against c_regions.fasta
+# Takes a clone, finds its sequence identifiers, looks in the processed fasta files for the original sequences (including the constant regions). Removes VDJ region, blasts region containing the constant region against reference C region sequences.
 
 CLONE_FILE=$1
 
@@ -18,7 +18,11 @@ FULLSEQ_FASTA=../data/${DATASET_ID}_processed.fasta
 FULLSEQ_TEMP=../results/clones/$(echo $CLONE_FILE | grep -o '[A-Z]*[0-9]*PB_clone_[0-9]*')_TEMP_FULLSEQ.fasta
 cat $FULLSEQ_FASTA | tr -d '\n' > $FULLSEQ_TEMP
 
-# Temporary fasta file with query sequences
+# Temporary fasta file with partis VDJ sequences; removed new lines for grep
+PARTIS_TEMP=../results/clones/$(echo $CLONE_FILE | grep -o '[A-Z]*[0-9]*PB_clone_[0-9]*')_PARTIS_TEMP.fasta
+cat $CLONE_FILE | tr -d '\n' > $PARTIS_TEMP
+
+# Temporary fasta file with query sequences to be blasted
 TEMP_FASTA=$(echo $CLONE_FILE | grep -o [A-Z]*[0-9]*PB_clone_[0-9]*)_TEMP.fasta
 TEMP_FASTA=../results/clones/$TEMP_FASTA
 
@@ -33,20 +37,27 @@ SEQ_IDS=${SEQ_IDS::-1}
 # For each sequence identifier in clone fasta file
 for ID in ${SEQ_IDS//,/ }
     do
-    
     # Find full sequence (including constant region) from original fasta file:
     FULL_SEQ=$(grep -a -o "$ID[A-Z]*" $FULLSEQ_TEMP)
     
-    # Remove ID from sequence string:
+    # Remove ID from full sequence string:
     FULL_SEQ=${FULL_SEQ/$ID/}
     
-    # Write ID and sequence to temporary fasta file:
-    #echo $ID
+    # Find VDJ sequence from the clone specific fasta file
+    VDJ_SEQ=$(grep -a -o "$ID[A-Z]*" $PARTIS_TEMP)
     
+    # Remove ID from VDJ sequence string
+    VDJ_SEQ=${VDJ_SEQ/$ID/}
+    
+    # Compare full seq and VDJ region to obtain region containing the constant region only
+    C_REGION=${FULL_SEQ/$VDJ_SEQ/}
+    
+    
+    # Write ID and sequence containing constant region to temporary fasta file:
     echo $ID >> $TEMP_FASTA
     
-    #echo $FULL_SEQ
-    echo $FULL_SEQ >> $TEMP_FASTA
+   
+    echo $C_REGION >> $TEMP_FASTA
     echo '' >> $TEMP_FASTA
     
     done 
@@ -62,3 +73,4 @@ echo $HEADER | cat - $BLAST_OUTPUT > ${BLAST_OUTPUT}.tmp && mv ${BLAST_OUTPUT}.t
 # Remove temporary files
 rm $TEMP_FASTA
 rm $FULLSEQ_TEMP
+rm $PARTIS_TEMP

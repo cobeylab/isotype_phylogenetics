@@ -22,5 +22,11 @@ java -jar -Xmx600m $MACSE_PATH -prog alignSequences -seq ../results/clones/$INPU
 
 # Remove amino acid alignment file
 rm ../results/clones/01107PB_clone_${SLURM_ARRAY_TASK_ID}_macse_AA.fasta
+    
+# Replace frameshift symbols ('!') from MACSE with gaps ('-')
+cat ../results/clones/01107PB_clone_${SLURM_ARRAY_TASK_ID}_macse_NT.fasta | tr '!' '-' > ${OUTPUT_FILE_NT}.tmp
+mv ${OUTPUT_FILE_NT}.tmp ../results/clones/01107PB_clone_${SLURM_ARRAY_TASK_ID}_macse_NT.fasta
+
+
 
 

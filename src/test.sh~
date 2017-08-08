@@ -1,0 +1,8 @@
+#!/bin/bash
+MINSEQ=10
+NUMSEQ=20
+
+if [ "$NUMSEQ" -ge "$MINSEQ" ]
+    then
+    echo "Lucky day"
+fi
