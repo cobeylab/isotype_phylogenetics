@@ -32,7 +32,7 @@ for fnames in glob.glob(dataDir+"*Cregions.csv"):
 	bo_file_names.append(fnames)
 print (len(bo_file_names))
  
-for bo_file_name in bo_file_names[38:39]:
+for bo_file_name in bo_file_names:
 	print (bo_file_name)
 	#grouping the same query_id for convenience
 	grouped_query_ids = get_grouped_query_ids(bo_file_name)
@@ -43,7 +43,7 @@ for bo_file_name in bo_file_names[38:39]:
 	isotype_file.write("id, isotype, evalue, bit_score, q_start, q_end, s_start, s_end\n")
 	
 	for same_query_id in grouped_query_ids:
-		print (same_query_id[0]['query_id'])
+#		print (same_query_id[0]['query_id'])
 		best_scored = [] #save best scores from blast results for the same query_id
 
 		for one_score in same_query_id:
@@ -57,12 +57,12 @@ for bo_file_name in bo_file_names[38:39]:
 
 			#exclude reverse-complement match
 			if bool(qstart > qend) != bool(sstart > send) : #exclusive or
-				print ("  reverse: ", eval, bitscore, qstart, qend, sstart, send)
+#				print ("  reverse: ", eval, bitscore, qstart, qend, sstart, send)
 				continue				
 		
 			#exclude if evalue is not low enough
 			if eval > 0.01:
-				print("  high evalue: ", eval)
+#				print("  high evalue: ", eval)
 				continue
 						
 			#if there is no element in best_scored, put this score as the best
@@ -75,13 +75,13 @@ for bo_file_name in bo_file_names[38:39]:
 			#update best_scored
 			if eval < float(best_scored[0]['evalue']):
 				best_scored = [one_score]
-				print ("  replaced due to evalue: ", eval, best_scored[0]['evalue'])
+#				print ("  replaced due to evalue: ", eval, best_scored[0]['evalue'])
 			elif eval == float(best_scored[0]['evalue']) and bitscore > float(best_scored[0]['bit_score']):
 				best_scored = [one_score]
-				print ("  replaced due to bitscore: ", bitscore, best_scored[0]['bit_score'])
+#				print ("  replaced due to bitscore: ", bitscore, best_scored[0]['bit_score'])
 			elif eval == float(best_scored[0]['evalue']) and bitscore == float(best_scored[0]['bit_score']):		
 				best_scored.append(one_score)
-				print ("  appended: ", eval, bitscore, best_scored[0]['evalue'], best_scored[0]['bit_score'])
+#				print ("  appended: ", eval, bitscore, best_scored[0]['evalue'], best_scored[0]['bit_score'])
 
 
 		#Now decide isotype
@@ -110,7 +110,7 @@ for bo_file_name in bo_file_names[38:39]:
 			isotype = best_scored[0]['subject_id']
 			score_to_print = best_scored[0]
 
-		print ("      isotype: ", isotype)
+#		print ("      isotype: ", isotype)
 		
 		#printout isotype to output file
 		printout = ''

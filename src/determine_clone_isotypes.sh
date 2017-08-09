@@ -4,7 +4,7 @@
 CLONE_FILE=$1
 
 # Path to output file with blast results
-BLAST_OUTPUT=$(echo $CLONE_FILE | grep -o [A-Z]*[0-9]*PB_clone_[0-9]*)_Cregions.csv
+BLAST_OUTPUT=$(echo $CLONE_FILE | grep -o [A-Z]*[0-9]*PB_clone_[0-9]*)_blast_output.csv
 BLAST_OUTPUT=../results/clones/$BLAST_OUTPUT
 
 # Path to file with constant region sequences
