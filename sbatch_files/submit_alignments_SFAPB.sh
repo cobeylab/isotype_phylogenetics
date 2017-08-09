@@ -4,7 +4,7 @@
 MINSEQ=10
 
 # Get all clone identifiers
-ls ../results/clones/SFAPB_clone_* | grep -v 'macse' | grep -o 'clone_[0-9]*'|tr -d [a-z_] > clone_ids_SFAPB.tmp
+ls ../results/clones/SFAPB_clone_* | grep -v 'macse' | grep -v '.csv'| grep -o 'clone_[0-9]*'|tr -d [a-z_] | head > clone_ids_SFAPB.tmp
 
 # Split clone ids in files with 500 ids (so that sbatch commands do not become too long)
 split -l 500 clone_ids_SFAPB.tmp 'clone_ids_SFAPB' -a 1
