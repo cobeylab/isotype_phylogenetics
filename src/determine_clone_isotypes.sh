@@ -51,24 +51,39 @@ for ID in ${SEQ_IDS//,/ }
     
     # Compare full seq and VDJ region to obtain region containing the constant region only
     C_REGION=${FULL_SEQ/$VDJ_SEQ/}
-    
-    
-    # Write ID and sequence containing constant region to temporary fasta file:
-    echo $ID >> $TEMP_FASTA
-    
+
+	# BLAST only sequences longer than the VDJ region  
+	# If C_REGION is not empty
+    if [ -n "$C_REGION" ]; then
+        
+        # Write ID and sequence containing constant region to temporary fasta file:
+        echo $ID >> $TEMP_FASTA
    
-    echo $C_REGION >> $TEMP_FASTA
-    echo '' >> $TEMP_FASTA
-    
+        echo $C_REGION >> $TEMP_FASTA
+        echo '' >> $TEMP_FASTA
+	fi    
     done 
        
-# Blast $TEMP_FASTA against c_regions.fasta    
-blastn -task blastn -query $TEMP_FASTA -out $BLAST_OUTPUT -outfmt 10 -subject $CREGION_FASTA
+# If there's at least one sequence long enough (i.e. file is not empty)
+N_LONG_SEQS=$(cat $TEMP_FASTA | wc -l)
 
-# Add header to blast output file (from -outfmt 7)
+if [ "$N_LONG_SEQS" -gt 0 ]
+then
+    
+    # Blast temporary fasta file with query sequences
+    blastn -task blastn -query $TEMP_FASTA -out $BLAST_OUTPUT -outfmt 10 -subject $CREGION_FASTA
+
+
+    # Add header to blast output file (from -outfmt 7)
 HEADER='query_id,subject_id,percent_identity,alignment_length,mismatches,gap_opens,query_start,query_end,subject_start,subject_end,evalue,bit_score'
+        
+    echo $HEADER | cat - $BLAST_OUTPUT > ${BLAST_OUTPUT}.tmp && mv ${BLAST_OUTPUT}.tmp $BLAST_OUTPUT
 
-echo $HEADER | cat - $BLAST_OUTPUT > ${BLAST_OUTPUT}.tmp && mv ${BLAST_OUTPUT}.tmp $BLAST_OUTPUT
+
+else
+    echo 'All sequences contained within VDJ region' > ${BLAST_OUTPUT}
+fi    
+
 
 # Remove temporary files
 rm $TEMP_FASTA

@@ -1,0 +1,17 @@
+data/*
+results/*
+*.out
+*.err
+src/_output/*
+ create mode 100644 sbatch_files/RAxML_info.SFAPB_clone_0
+ create mode 100644 sbatch_files/RAxML_info.SFAPB_clone_220
+ create mode 100644 sbatch_files/RAxML_info.SFAPB_clone_443
+ create mode 100644 sbatch_files/RAxML_log.SFAPB_clone_0
+ create mode 100644 sbatch_files/RAxML_log.SFAPB_clone_220
+ create mode 100644 sbatch_files/RAxML_log.SFAPB_clone_443
+ create mode 100644 sbatch_files/RAxML_parsimonyTree.SFAPB_clone_0
+ create mode 100644 sbatch_files/RAxML_parsimonyTree.SFAPB_clone_220
+ create mode 100644 sbatch_files/RAxML_parsimonyTree.SFAPB_clone_443
+ create mode 100644 sbatch_files/RAxML_result.SFAPB_clone_0
+ create mode 100644 sbatch_files/RAxML_result.SFAPB_clone_220
+ create mode 100644 sbatch_files/RAxML_result.SFAPB_clone_44
