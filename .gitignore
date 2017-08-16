@@ -3,6 +3,7 @@ results/*
 *.out
 *.err
 src/_output/*
+figures/*
 sbatch_files/RAxML_info.SFAPB_clone_220
 sbatch_files/RAxML_info.SFAPB_clone_443
 sbatch_files/RAxML_log.SFAPB_clone_0
