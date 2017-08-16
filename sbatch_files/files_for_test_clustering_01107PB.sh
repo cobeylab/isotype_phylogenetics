@@ -1,10 +1,10 @@
 #!/bin/bash
 #This file contains summaries of clustering statistics of all clones
-SMR_FILE=../results/test/summary_stats_clustering_01107PB.csv
+SMR_FILE=../results/test_clustering/summary_stats_clustering_01107PB.csv
 
 count=0
 
-for f in $(ls ../results/test/stats_clustering_01107PB_clone_*txt)
+for f in $(ls ../results/test_clustering/stats_clustering_01107PB_clone_*txt)
 do
 	CLONE_ID=$(echo $f | grep -o 'clone_[0-9]*')
 
@@ -17,7 +17,7 @@ do
 	fi
 
 	#For each clone, write a file (stats_clustering_*_rdm.csv) that contains 1000 randomized clustering statistics
-	RDM_FILE=../results/test/stats_clustering_01107PB_${CLONE_ID}_rdm.csv
+	RDM_FILE=../results/test_clustering/stats_clustering_01107PB_${CLONE_ID}_rdm.csv
 	#except for last 2 lines, write all lines to stats_clustering_*_rdm.csv file
 	cat $f | head -n -2 > $RDM_FILE
 
