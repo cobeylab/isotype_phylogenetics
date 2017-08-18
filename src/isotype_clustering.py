@@ -1,13 +1,15 @@
 #!/usr/bin/python
 import sys
+import os
 from dendropy import Tree
 import re
 import csv
 from copy import deepcopy
 from numpy import mean
 
+
 # Reading test tree:
-with open('test_tree.nex', 'rU') as tree_file:
+with open(os.path.dirname(os.path.realpath(sys.argv[0])) + '/test_tree.nex', 'rU') as tree_file:
     test_tree = Tree.get_from_stream(tree_file, schema='nexus')
 
 def max_isotype_subtree(tree, node):
@@ -157,7 +159,7 @@ def mean_isotype_subtree_size(tree, isotype_list = ['IgG','IgA']):
 
     return mean_subtree_size
 
-if __name__ == "__main__":
-    import doctest
-    doctest.testmod()
+#if __name__ == "__main__":
+#    import doctest
+#    doctest.testmod()
 

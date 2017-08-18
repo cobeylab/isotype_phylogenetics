@@ -6,7 +6,7 @@ import numpy
 import math
 from dendropy import Tree
 from isotype_clustering import mean_isotype_subtree_size
-
+from isotype_clustering import test_tree
 
 numPermut = 1000
 
