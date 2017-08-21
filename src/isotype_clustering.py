@@ -159,7 +159,7 @@ def mean_isotype_subtree_size(tree, isotype_list = ['IgG','IgA']):
 
     return mean_subtree_size
 
-#if __name__ == "__main__":
-#    import doctest
-#    doctest.testmod()
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()
 

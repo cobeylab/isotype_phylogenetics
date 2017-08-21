@@ -43,10 +43,10 @@ def main(argv):
         if seq_id in isotype.keys():
             node.annotations.add_new('isotype', isotype[seq_id])
 
-    with open(annotated_tree_path, 'w') as output_file:
-        tree.write(output_file, schema='nexus')
+    #with open(annotated_tree_path, 'w') as output_file:
+    #    tree.write(output_file, schema='nexus')
 
-    #tree.write(path = annotated_tree_path, schema="nexus")
+    tree.write(path = annotated_tree_path, schema="nexus")
     #Tree.write(tree, path = annotated_tree_path, schema = 'nexus')
 
 if(__name__ == "__main__"):
