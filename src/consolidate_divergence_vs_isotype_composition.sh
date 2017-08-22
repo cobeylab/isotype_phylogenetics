@@ -1,12 +1,14 @@
 #!/bin/bash
 # Consolidate output files from divergence vs isotype composition analysis
-COUNT=0
+
 for DATASET in {01107PB,01207PB,SFAPB}
 do
+    
     # Create empty file for consolidated results for DATASET
     CONSOLIDATED_FILE=../results/divergence_vs_composition_$DATASET.csv
     touch $CONSOLIDATED_FILE
-    
+
+    COUNT=0    
     # For each result file:
     for RESULT_FILE in ../results/${DATASET}_clone_*_divergence_vs_composition_temp.csv
     do

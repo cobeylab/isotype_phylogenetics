@@ -112,5 +112,7 @@ p_value_pl <- ggplot(combined_dataframe, aes(x = p_value, fill = isotype)) +
   geom_vline(xintercept = 0.05, linetype=2) + 
   xlab('p value') + ylab('Frequency')
 
-
+pdf('../figures/clustering_p_value.pdf', height = 8, width = 10)
+plot(p_value_pl)
+dev.off()
 
