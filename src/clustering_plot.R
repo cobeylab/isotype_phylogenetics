@@ -99,11 +99,29 @@ c_index_pl <- ggplot(combined_dataframe, aes(x = clustering_index, fill = isotyp
     scale_x_continuous(limits = c(-150,150)) + 
     scale_y_continuous(expand = c(0,0)) +
     geom_vline(xintercept = 0, linetype=2) + 
-    xlab('Clustering index') + ylab('Density')
+    xlab('Clustering index') + ylab('Density') +
+    scale_fill_manual(values = c('dodgerblue1','green3'))
 
 pdf('../figures/clustering_index_dist.pdf', height = 5, width = 12)
 plot(c_index_pl)
 dev.off()
+
+c_index_pl_full_scale <- ggplot(combined_dataframe, aes(x = clustering_index, fill = isotype)) + 
+  geom_density(alpha = 0.6) + ggplot_theme +
+  facet_wrap(~dataset, scales = "free") + 
+  #scale_x_continuous(limits = c(-150,150)) + 
+  scale_y_continuous(expand = c(0,0)) +
+  geom_vline(xintercept = 0, linetype=2) + 
+  xlab('Clustering index') + ylab('Density') +
+  scale_fill_manual(values = c('dodgerblue1','green3'))
+    
+pdf('../figures/clustering_index_dist_fullscale.pdf', height = 5, width = 12)
+plot(c_index_pl_full_scale)
+dev.off()
+
+
+
+
 
 p_value_pl <- ggplot(combined_dataframe, aes(x = p_value, fill = isotype)) + 
   geom_histogram(colour = 'black') + ggplot_theme +

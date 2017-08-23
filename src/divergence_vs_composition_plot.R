@@ -118,7 +118,25 @@ pdf('../figures/divergence_vs_clone_type.pdf', height = 7, width = 15)
 plot(divergence_vs_clone_type)
 dev.off()
 
-
 aov_results <- aov(data=combined_dataframe, formula = mean_divergence~clone_type + dataset + dataset*clone_type)
 TukeyHSD(aov_results, "clone_type")
+
+
+# Divergence vs. size separately for IgG-no-IgA, IgA-no-IgG, IgG-and-IgA, no-IgG-no-IgA
+div_vs_size <- ggplot(subset(combined_dataframe, clone_type != 'XXXXXX'), 
+                      aes(x = log10(n_sequences), y = mean_divergence, colour = clone_type)) +
+  geom_point(shape = 1) + 
+  ggplot_theme +
+  facet_wrap(~dataset, scales = "fixed") + 
+  geom_smooth(method = 'lm', se = FALSE) +
+  scale_x_continuous(limits=c(0.5,4)) +
+  scale_color_brewer(type = 'qual',palette=6) +
+  xlab("Number of sequences (log10)") + ylab("Mean divergence from germline")
+
+pdf('../figures/divergence_vs_size.pdf', height = 5, width = 12)
+plot(div_vs_size)
+dev.off()
+
+
+
 
