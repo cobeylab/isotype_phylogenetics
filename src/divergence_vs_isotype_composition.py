@@ -24,7 +24,7 @@ def main(argv):
     temp_output_file_path = '../results/'  + clone_id + '_divergence_vs_composition_temp.csv'
 
     # Extract naive sequence from clone fasta file:
-    clone_fasta_file_path = '../results/'  + clone_id + '.fasta'
+    clone_fasta_file_path = '../results/clones/'  + clone_id + '.fasta'
 
     for record in SeqIO.parse(open(clone_fasta_file_path, 'rU'), 'fasta'):
         if record.name == 'NAIVE':
@@ -37,10 +37,10 @@ def main(argv):
     naive_taxon = [node.taxon for node in tree.leaf_nodes() if node.taxon.label.find('NAIVE') > -1][0]
 
     # Number of hotspots in naive sequence:
-    naive_HS = seq_mutability(naive_seq)[1]['HS']
+    naive_HS = str(seq_mutability(naive_seq)[1]['HS'])
 
     # Naive mean S5F mutability
-    naive_S5F = seq_mutability(naive_seq)[1]['mean_S5F']
+    naive_S5F = str(seq_mutability(naive_seq)[1]['mean_S5F'])
 
     # Compute divergence of all sequences from naive sequence
     pmatrix = tree.phylogenetic_distance_matrix()
