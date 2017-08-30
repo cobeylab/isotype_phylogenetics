@@ -7,6 +7,9 @@ import re
 import csv
 from copy import deepcopy
 from numpy import mean
+from Bio import SeqIO
+
+from mutability_function import seq_mutability
 
 def main(argv):
     tree_file_path = str(argv[1])
@@ -20,12 +23,24 @@ def main(argv):
     # Generate temporary file with results for this clone
     temp_output_file_path = '../results/'  + clone_id + '_divergence_vs_composition_temp.csv'
 
+    # Extract naive sequence from clone fasta file:
+    clone_fasta_file_path = '../results/'  + clone_id + '.fasta'
+
+    for record in SeqIO.parse(open(clone_fasta_file_path, 'rU'), 'fasta'):
+        if record.name == 'NAIVE':
+            naive_seq = str(record.seq)
 
     # Read tree
     tree = Tree.get_from_path(tree_file_path, 'nexus')
 
     # Naive seq. dendropy taxon identifier
     naive_taxon = [node.taxon for node in tree.leaf_nodes() if node.taxon.label.find('NAIVE') > -1][0]
+
+    # Number of hotspots in naive sequence:
+    naive_HS = seq_mutability(naive_seq)[1]['HS']
+
+    # Naive mean S5F mutability
+    naive_S5F = seq_mutability(naive_seq)[1]['mean_S5F']
 
     # Compute divergence of all sequences from naive sequence
     pmatrix = tree.phylogenetic_distance_matrix()
@@ -54,11 +69,11 @@ def main(argv):
     n_sequences = str(n_sequences)
 
     results_list = [clone_id, n_sequences, n_igg, n_iga, fraction_igg, fraction_iga,
-                    mean_divergence, max_divergence, cumulative_divergence]
+                    mean_divergence, max_divergence, cumulative_divergence, naive_HS, naive_S5F]
 
     with open(temp_output_file_path, 'w') as temp_output_file:
         temp_output_file.write('clone_id,n_sequences,n_igg,n_iga,fraction_igg,fraction_iga,')
-        temp_output_file.write('mean_divergence,max_divergence,cumulative_divergence\n')
+        temp_output_file.write('mean_divergence,max_divergence,cumulative_divergence,naive_HS,naive_S5F\n')
 
         temp_output_file.write(','.join(results_list))
         temp_output_file.write('\n')
