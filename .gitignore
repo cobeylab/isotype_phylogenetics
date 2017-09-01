@@ -15,4 +15,4 @@ sbatch_files/RAxML_parsimonyTree.SFAPB_clone_443
 sbatch_files/RAxML_result.SFAPB_clone_0
 sbatch_files/RAxML_result.SFAPB_clone_220
 sbatch_files/RAxML_result.SFAPB_clone_443
-.DS_Store
+*.DS_Store
