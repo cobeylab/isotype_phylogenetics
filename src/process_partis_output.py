@@ -11,12 +11,15 @@ csv.field_size_limit(sys.maxsize)
 # Process the n largest clones (in terms of productive sequences), where n is:
 #n = 100
 
+# As long as they have at least a number min_clone_size of productive sequences, where:
+#min_clone_size = 20
+
+
 # Processing all clones now...
 
-# As long as they have at least a number min_clone_size of productive sequences, where:
-min_clone_size = 20
 
-dataset_ids = ['01107PB','01207PB','SFAPB']
+#dataset_ids = ['01107PB','01207PB','SFAPB']
+dataset_ids = ['SFAPB_HT_plus_FluMAbs']
 
 for dataset in dataset_ids:
     partis_file_name = '../results/' + dataset + '_partition-cluster-annotations.csv'

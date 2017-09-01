@@ -160,7 +160,7 @@ plot(mean_divergence_distribution_pl)
 dev.off()
 
 # Distribution of mean divergence from UCA across clones (log x axis):
-mean_divergence_distribution_pl <- ggplot(subset(combined_dataframe), 
+mean_divergence_distribution_logscale_pl <- ggplot(subset(combined_dataframe), 
                                           aes(x = mean_divergence)) +
   geom_histogram(fill = 'grey70', colour = 'black') + 
   facet_wrap(~dataset, scales = 'free') + ggplot_theme +
@@ -169,8 +169,8 @@ mean_divergence_distribution_pl <- ggplot(subset(combined_dataframe),
   xlab ('Mean divergence from UCA') +
   ylab ('Frequency')
 
-pdf('../figures/exploratory_plots/mean_divergence_distribution.pdf', height = 5, width = 12)
-plot(mean_divergence_distribution_pl)
+pdf('../figures/exploratory_plots/mean_divergence_distribution_logscale.pdf', height = 5, width = 12)
+plot(mean_divergence_distribution_logscale_pl)
 dev.off()
 
   
